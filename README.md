@@ -10,10 +10,14 @@ Reserved repository to list all my `courses and certifications.`:heart_eyes:
 
 ## Higher Education <a name="education"></a> :mortar_board:
 
-- Universidade de Mogi das Cruzes (Brazil), Bachelor's degree, Information Systems. 2015-2018 (4 years)
-- Colégio Cetés (Brazil), Technician, Informatics. 2013-2014 (1 year and half)
+- Universidade de Mogi das Cruzes (Brazil), `Bachelor's degree`, Information Systems. 2015-2018 (4 years)
+- Colégio Cetés (Brazil), `Technician`, Informatics. 2013-2014 (1 year and half)
 
 ## Certification <a name="certification"></a> :star:
+
+- Oracle Certified Associate, Java SE 8 Programmer. Oracle. May/2018. [:paperclip:](https://www.youracclaim.com/badges/c730d0f0-48c6-4128-8b03-d7e5e381a250/linked_in_profile)
+
+![Badge OCAJP8](img/badge_ocajp8.png)
 
 ## Languages <a name="language"></a> :round_pushpin:
 
