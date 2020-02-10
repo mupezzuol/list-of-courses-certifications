@@ -15,8 +15,7 @@ Reserved repository to list all my `courses and certifications.`:heart_eyes:
 
 ## Certification <a name="certification"></a> :star:
 
-- Oracle Certified Associate, Java SE 8 Programmer. Oracle. May/2018. [:paperclip:](https://www.youracclaim.com/badges/c730d0f0-48c6-4128-8b03-d7e5e381a250/linked_in_profile)
-
+- Oracle Certified Associate, Java SE 8 Programmer. `Oracle`. May/2018.:paperclip:[here](https://www.youracclaim.com/badges/c730d0f0-48c6-4128-8b03-d7e5e381a250/linked_in_profile)
 <img src="img/badge_ocajp8.png" height=180 width=180>
 
 ## Languages <a name="language"></a> :round_pushpin:
