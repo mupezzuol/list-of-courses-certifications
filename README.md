@@ -15,7 +15,7 @@ Reserved repository to list all my `courses and certifications.`:heart_eyes:
 
 ## Certification <a name="certification"></a> :star:
 
-- Oracle Certified Associate, Java SE 8 Programmer _(OCAJP8)_. `Oracle`. May/2018.:paperclip:[here](https://www.youracclaim.com/badges/c730d0f0-48c6-4128-8b03-d7e5e381a250/linked_in_profile)
+- Oracle Certified Associate, Java SE 8 Programmer _(OCAJP8)_. `Oracle`. May/2018. :paperclip:[here](https://www.youracclaim.com/badges/c730d0f0-48c6-4128-8b03-d7e5e381a250/linked_in_profile)
 <img src="img/badge_ocajp8.png" height=180 width=180>
 
 ## Languages <a name="language"></a> :round_pushpin:
@@ -27,7 +27,7 @@ Reserved repository to list all my `courses and certifications.`:heart_eyes:
 
 #### Linux
 
-- Linux I: Getting to know and using the terminal. Duration: 4h.[here](https://cursos.alura.com.br/certificate/72e5b5c3-7ee4-4dee-94d2-84481e5b73b0)
+- Linux I: Getting to know and using the terminal. Duration: 4h. :paperclip:[here](https://cursos.alura.com.br/certificate/72e5b5c3-7ee4-4dee-94d2-84481e5b73b0)
 
 #### Git
 
