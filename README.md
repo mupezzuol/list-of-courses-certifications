@@ -27,7 +27,7 @@ Reserved repository to list all my `courses and certifications.`:heart_eyes:
 
 #### Linux
 
-- Linux I: Getting to know and using the terminal. School: [Alura](https://www.alura.com.br/). Duration: 4h. :paperclip:[here](https://cursos.alura.com.br/certificate/72e5b5c3-7ee4-4dee-94d2-84481e5b73b0)
+- Linux I: Getting to know and using the terminal. _School: [Alura](https://www.alura.com.br/)._ _Duration: 4h._ :paperclip:[here](https://cursos.alura.com.br/certificate/72e5b5c3-7ee4-4dee-94d2-84481e5b73b0)
 
 #### Git
 
