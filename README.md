@@ -5,16 +5,16 @@ Reserved repository to list all my `courses and certifications.`:heart_eyes:
 ## Index :pushpin:
 - [Higher Education](#education)
 - [Certification](#certification)
-- [Language](#language)
+- [Languages](#languages)
 - [Courses](#courses)
 
 ## Higher Education <a name="education"></a> :mortar_board:
 
 ## Certification <a name="certification"></a> :star:
 
-## Language <a name="language"></a> :round_pushpin:
+## Languages <a name="language"></a> :round_pushpin:
 
-- Portuguese (Brazil): I am Brazilian, that is, native of the language. :pt: :br:
-- English: I am looking for fluency, studying every day to achieve this dream. :gb:
+- Portuguese: I am Brazilian, that is, native of the language.<img src="img/brazil-icon.png" height=20>
+- English: I am looking for fluency, studying every day to achieve this dream.:gb:
 
 ## Courses <a name="courses"></a> :pencil2:
