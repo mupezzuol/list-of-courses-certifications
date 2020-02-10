@@ -10,8 +10,8 @@ Reserved repository to list all my `courses and certifications.`:heart_eyes:
 
 ## Higher Education <a name="education"></a> :mortar_board:
 
-- Universidade de Mogi das Cruzes (Brazil), `Bachelor's degree`, Information Systems. 2015-2018 (4 years)
-- Colégio Cetés (Brazil), `Technician`, Informatics. 2013-2014 (1 year and half)
+- Universidade de Mogi das Cruzes _(Brazil)_, `Bachelor's degree`, Information Systems. 2015-2018 (4 years)
+- Colégio Cetés _(Brazil)_, `Technician`, Informatics. 2013-2014 (1 year and half)
 
 ## Certification <a name="certification"></a> :star:
 
@@ -24,3 +24,23 @@ Reserved repository to list all my `courses and certifications.`:heart_eyes:
 - **English:** I am looking for fluency, studying every day to achieve this dream.:gb:
 
 ## Courses <a name="courses"></a> :pencil2:
+
+#### Linux
+
+- Linux I: Getting to know and using the terminal. Duration: 4h.[here](https://cursos.alura.com.br/certificate/72e5b5c3-7ee4-4dee-94d2-84481e5b73b0)
+
+#### Git
+
+#### Java
+
+#### Spring
+
+#### Microservice with Spring
+
+#### Angular
+
+#### DevOps
+
+#### Cloud
+
+#### Database
