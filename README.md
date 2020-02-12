@@ -59,17 +59,20 @@ Reserved repository to list all my `courses and certifications.`:heart_eyes:
 - Microservices with Spring Cloud: Registry, Config Server and Distributed Tracing. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip:[here](https://cursos.alura.com.br/certificate/cb63a8f3-f712-4936-a165-d41068befbef)
 - Moving forward with microservices: Circuit Breaker, Hystrix and API Gateway. _School: [Alura](https://www.alura.com.br/)._ _Duration: 10h._ :paperclip:[here](https://cursos.alura.com.br/certificate/ad65fa31-4cd8-4fcf-8cf6-8085bd713979)
 
-#### Angular
+#### JavaScript
 
 - HTTP: Understanding the web behind the scenes. _School: [Alura](https://www.alura.com.br/)._ _Duration: 14h._ :paperclip:[here](https://cursos.alura.com.br/certificate/615446cb-d038-41a1-a2b5-afaad6c836af)
-- Angular JS in practice. _School: [Udemy](https://www.udemy.com)._ _Duration: 2h._ :paperclip:[here](https://www.udemy.com/certificate/UC-Z2JI5GSX/)
-- AngularJS: create powerful webapps. _School: [Alura](https://www.alura.com.br/)._ _Duration: 16h._ :paperclip:[here](https://cursos.alura.com.br/certificate/acd195bb-0793-4a75-bc0c-ce15fa90c9f1)
 - JavaScript: Programming in the web language. _School: [Alura](https://www.alura.com.br/)._ _Duration: 20h._ :paperclip:[here](https://cursos.alura.com.br/certificate/4ccfaff1-7a36-46d0-8184-c7923847f251)
 - Advanced JavaScript I: ES6, object orientation and design patterns. _School: [Alura](https://www.alura.com.br/)._ _Duration: 12h._ :paperclip:[here](https://cursos.alura.com.br/certificate/c7317ef3-1a03-40f9-ab38-d214844c1a45)
 - Advanced JavaScript II: ES6, object orientation and design patterns. _School: [Alura](https://www.alura.com.br/)._ _Duration: 12h._ :paperclip:[here](https://cursos.alura.com.br/certificate/b417d094-00d2-4314-9782-1695e8e45806)
 - Advanced JavaScript III: ES6, object orientation and design patterns. _School: [Alura](https://www.alura.com.br/)._ _Duration: 12h._ :paperclip:[here](https://cursos.alura.com.br/certificate/376a1934-f341-447f-9e96-2debf9fdaa59)
 - TypeScript I: Evolving your Javascript. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip:[here](https://cursos.alura.com.br/certificate/9e617e65-8812-472a-9c65-235714b82a27)
 - TypeScript II: More techniques and best practices. _School: [Alura](https://www.alura.com.br/)._ _Duration: 10h._ :paperclip:[here](https://cursos.alura.com.br/certificate/1dd90902-a678-446c-81c5-df04b34b48bc)
+
+#### Angular
+
+- Angular JS in practice. _School: [Udemy](https://www.udemy.com)._ _Duration: 2h._ :paperclip:[here](https://www.udemy.com/certificate/UC-Z2JI5GSX/)
+- AngularJS: create powerful webapps. _School: [Alura](https://www.alura.com.br/)._ _Duration: 16h._ :paperclip:[here](https://cursos.alura.com.br/certificate/acd195bb-0793-4a75-bc0c-ce15fa90c9f1)
 - Webpack: Manipulating modules in your webapp. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip:[here](https://cursos.alura.com.br/certificate/a4db88ba-d141-4edb-924c-1decca768e70)
 - Angular I: Fundamentals. _School: [Alura](https://www.alura.com.br/)._ _Duration: 16h._ :paperclip:[here](https://cursos.alura.com.br/certificate/ddf0760c-33c3-4788-9efb-f2a4c2fc5dde)
 - Angular II: Authentication, Forms and lazy loading. _School: [Alura](https://www.alura.com.br/)._ _Duration: 12h._ :paperclip:[here](https://cursos.alura.com.br/certificate/86849599-10a0-43c1-853c-dc37e1402ccb)
