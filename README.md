@@ -91,7 +91,7 @@ Below is a list of the courses I completed. There are currently 40 courses with 
 
 #### Cloud
 
-- Deploy on Amazon EC2: High availability and scalability of an application. _in progress_
+- Deploy on Amazon EC2: High availability and scalability of an application. _School: [Alura](https://www.alura.com.br/)._ _Duration: 10h._ :paperclip:[here](https://cursos.alura.com.br/certificate/39a5f8d0-cecc-4770-94dd-8d45a018a03f)
 
 #### Database
 
