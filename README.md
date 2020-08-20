@@ -1,31 +1,31 @@
-# List of courses and certifications :white_check_mark:
+# My academic life :white_check_mark:
 
-Reserved repository to list all my `courses and certifications.`:heart_eyes:
+Reserved repository to list a little of my `academic life.`:heart_eyes:
 
 ## Index :pushpin:
-- [Higher Education](#education)
+- [Academic Education](#education)
 - [Certification](#certification)
 - [Languages](#languages)
 - [Courses](#courses)
 
-## Higher Education <a name="education"></a> :mortar_board:
+## Academic Education <a name="education"></a> :mortar_board:
 
 - Universidade de Mogi das Cruzes _(Brazil)_, `Bachelor's degree`, Information Systems. 2015-2018 (4 years)
-- Colégio Cetés _(Brazil)_, `Technician`, Informatics. 2013-2014 (1 year and half)
+- Colégio Cetés _(Brazil)_, `Technician`, Information Technology. 2013-2014 (1 year and half)
 
 ## Certification <a name="certification"></a> :star:
 
-- Oracle Certified Associate, Java SE 8 Programmer _(OCAJP8)_. `Oracle`. May/2018. :paperclip:[here](https://www.youracclaim.com/badges/c730d0f0-48c6-4128-8b03-d7e5e381a250/linked_in_profile)
+- Oracle Certified Associate, Java SE 8 Programmer _(OCAJP8)_. `Oracle`. May/2018. :paperclip: [here](https://www.youracclaim.com/badges/c730d0f0-48c6-4128-8b03-d7e5e381a250/linked_in_profile)
 <img src="img/badge_ocajp8.png" height=180 width=180>
 
 ## Languages <a name="language"></a> :round_pushpin:
 
-- **Portuguese:** I am Brazilian, that is, native of the language.<img src="img/brazil-icon.png" height=20>
-- **English:** I am looking for fluency, studying every day to achieve this dream.:gb:
+- **Portuguese:** Native speaker, I am Brazilian.<img src="img/brazil-icon.png" height=20>
+- **English:** Professional working proficiency.:gb:
 
 ## Courses <a name="courses"></a> :pencil2:
 
-Below is a list of the courses I completed. There are currently 40 courses with a total of 418.5 hours.
+Below is a list of the courses I completed. There are currently 53 courses with a total of 563 hours.
 
 #### Linux
 
