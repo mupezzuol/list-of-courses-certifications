@@ -10,8 +10,8 @@ Reserved repository to list a little of my `academic life.`:heart_eyes:
 
 ## Academic Education <a name="education"></a> :mortar_board:
 
-- Universidade de Mogi das Cruzes _(Brazil)_, `Bachelor's degree`, Information Systems. 2015-2018 (4 years)
-- Colégio Cetés _(Brazil)_, `Technician`, Information Technology. 2013-2014 (1 year and half)
+- Universidade de Mogi das Cruzes _(Brazil)_, `Bachelor's degree`, Information Systems. 2015-2018 (4 years) :paperclip: [here](certificates/university-bachelor-degree.png)
+- Colégio Cetés _(Brazil)_, `Technician`, Information Technology. 2013-2014 (1 year and half) :paperclip: [here](certificates/information-technology.png)
 
 ## Certification <a name="certification"></a> :star:
 
