@@ -25,7 +25,7 @@ Reserved repository to list a little of my `academic life.`:heart_eyes:
 
 ## Courses <a name="courses"></a> :pencil2:
 
-Below is a list of the courses I completed. There are currently 53 courses with a total of 563 hours.
+Below is a list of the courses I completed. There are currently `53` courses with a total of `563 hours.`
 
 #### Linux
 
