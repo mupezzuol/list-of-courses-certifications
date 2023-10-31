@@ -26,7 +26,7 @@ Reserved repository to list a little of my `academic life.`:heart_eyes:
 
 ## Courses <a name="courses"></a> :pencil2:
 
-Below is a list of the courses I completed. There are currently `75` courses with a total of `832 hours.`
+Below is a list of the courses I completed. There are currently `82` courses with a total of `899 hours.`
 
 #### Linux
 
@@ -74,6 +74,9 @@ Below is a list of the courses I completed. There are currently `75` courses wit
 - Threads in Java I: Parallel programming. _School: [Alura](https://www.alura.com.br/)._ _Duration: 16h._ :paperclip: [here](https://cursos.alura.com.br/certificate/mupezzuol/threads-java-1?lang=en)
 - Threads in Java II: Advanced concurrent programming. _School: [Alura](https://www.alura.com.br/)._ _Duration: 16h._ :paperclip: [here](https://cursos.alura.com.br/certificate/mupezzuol/threads-java-2?lang=en)
 - Java e Testes: Test Driven Development com Junit. _School: [Alura](https://www.alura.com.br/)._ _Duration: 12h._ :paperclip: [here](https://cursos.alura.com.br/certificate/mupezzuol/tdd?lang=en)
+- Java Reflection I: Understanding metaprogramming. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/certificate/mupezzuol/java-reflection-meta-programacao?lang=en)
+- Java Reflection II: Annotations and dependency injection. _School: [Alura](https://www.alura.com.br/)._ _Duration: 12h._ :paperclip: [here](https://cursos.alura.com.br/certificate/mupezzuol/java-reflection-anotacoes-injecao-dependencia?lang=en)
+- Swagger: Documenting your APIs. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/certificate/mupezzuol/swagger-documentando-apis?lang=en)
 
 #### Spring
 
@@ -132,6 +135,8 @@ Below is a list of the courses I completed. There are currently `75` courses wit
 - Jenkins and Docker: Continuous delivery pipeline. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/certificate/1bd5f7eb-c854-48fd-b1ea-f32c2d04b36c)
 - Kubernetes: Introduction to container orchestration. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/certificate/3519f598-a55c-49e7-8cd6-7875ad2aea59)
 - Kubernetes: Orchestration of containers. _School: [Alura](https://www.alura.com.br/)._ _Duration: 10h._ :paperclip: [here](https://cursos.alura.com.br/certificate/3e520682-4471-4e93-bce8-225aabd32b9a)
+- Grafana and Telegraf: Real-time monitoring. _School: [Alura](https://www.alura.com.br/)._ _Duration: 10h._ :paperclip: [here](https://cursos.alura.com.br/certificate/mupezzuol/grafana-telegraf-monitoramento?lang=en)
+
 
 #### Cloud Computing
 
@@ -141,3 +146,8 @@ Below is a list of the courses I completed. There are currently `75` courses wit
 - Amazon VPC: Provision a private cloud. _School: [Alura](https://www.alura.com.br/)._ _Duration: 6h._ :paperclip: [here](https://cursos.alura.com.br/certificate/9127b6d0-0fe8-471c-9766-b8db5209ee50)
 - Amazon ECS: Manage Docker in the AWS Cloud. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/certificate/9ff7f436-3077-49b8-83b5-0db4946f6875)
 - Amazon S3: Manipulate and store objects in the cloud. _School: [Alura](https://www.alura.com.br/)._ _Duration: 12h._ :paperclip: [here](https://cursos.alura.com.br/certificate/1c874f46-df2c-4643-8865-aaf4c49b891b)
+- Amazon Lambda: Running serverless code. _School: [Alura](https://www.alura.com.br/)._ _Duration: 12h._ :paperclip: [here](https://cursos.alura.com.br/certificate/mupezzuol/serverless-aws-lambda?lang=en)
+- Amazon CloudFront and Route53: Distribute your files and create your own domain. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/certificate/mupezzuol/amazon-cloudfront-route53?lang=en)
+
+#### Tools
+- IntelliJ IDEA: Increase your productivity in java projects. _School: [Alura](https://www.alura.com.br/)._ _Duration: 9h._ :paperclip: [here](https://cursos.alura.com.br/certificate/mupezzuol/intellij-idea-truques-para-aumentar-sua-produtividade-em-projetos-java?lang=en)
