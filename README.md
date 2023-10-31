@@ -26,7 +26,7 @@ Reserved repository to list a little of my `academic life.`:heart_eyes:
 
 ## Courses <a name="courses"></a> :pencil2:
 
-Below is a list of the courses I completed. There are currently `53` courses with a total of `563 hours.`
+Below is a list of the courses I completed. There are currently `75` courses with a total of `832 hours.`
 
 #### Linux
 
@@ -44,6 +44,8 @@ Below is a list of the courses I completed. There are currently `53` courses wit
 #### Algorithms
 
 - Algorithms I: Selection, Insertion and Introduction to Analysis. _School: [Alura](https://www.alura.com.br/)._ _Duration: 12h._ :paperclip: [here](https://cursos.alura.com.br/certificate/d780e68c-0a53-4cc4-a858-7ff718ffb8e7)
+- Algorithms II: Mergesort, Quicksort, binary search and algorithm analysis. _School: [Alura](https://www.alura.com.br/)._ _Duration: 12h._ :paperclip: [here](https://cursos.alura.com.br/certificate/mupezzuol/projetos-de-algoritmos-2?lang=en)
+- Data Structure: Computing in practice with Java. _School: [Alura](https://www.alura.com.br/)._ _Duration: 12h._ :paperclip: [here](https://cursos.alura.com.br/certificate/mupezzuol/estrutura-de-dados?lang=en)
 
 #### Java
 
@@ -54,6 +56,24 @@ Below is a list of the courses I completed. There are currently `53` courses wit
 - Design Patterns Java I: Good programming practices. _School: [Alura](https://www.alura.com.br/)._ _Duration: 20h._ :paperclip: [here](https://cursos.alura.com.br/certificate/acb3ee73-1b1b-436f-8b34-1d6c35f46e04)
 - Design Patterns Java II: Good programming practices. _School: [Alura](https://www.alura.com.br/)._ _Duration: 16h._ :paperclip: [here](https://cursos.alura.com.br/certificate/3acba130-09a3-4cda-89c7-5806b8920c82)
 - Tests: TDD with Java. _School: [Alura](https://www.alura.com.br/)._ _Duration: 12h._ :paperclip: [here](https://cursos.alura.com.br/certificate/61d09c69-4a06-4d15-9945-57e4a115af6b)
+- Java and java.util: Collections, Wrappers and Lambda expressions. _School: [Alura](https://www.alura.com.br/)._ _Duration: 12h._ :paperclip: [here](https://cursos.alura.com.br/user/mupezzuol/course/java-util-lambdas/certificate?lang=en)
+- Java Collections: Mastering Lists, Sets and Maps. _School: [Alura](https://www.alura.com.br/)._ _Duration: 20h._ :paperclip: [here](https://cursos.alura.com.br/user/mupezzuol/course/java-collections/certificate?lang=en)
+- Java Polymorphism: Understand inheritance and interfaces. _School: [Alura](https://www.alura.com.br/)._ _Duration: 16h._ :paperclip: [here](https://cursos.alura.com.br/user/mupezzuol/course/java-heranca-interfaces-polimorfismo/certificate?lang=en)
+- Object Orientation: Best techniques with Java. _School: [Alura](https://www.alura.com.br/)._ _Duration: 20h._ :paperclip: [here](https://cursos.alura.com.br/certificate/mupezzuol/orientacao-objetos-java?lang=en)
+- Java Exceptions: Learn how to create, throw and control exceptions. _School: [Alura](https://www.alura.com.br/)._ _Duration: 12h._ :paperclip: [here](https://cursos.alura.com.br/certificate/mupezzuol/java-excecoes?lang=en)
+- Java and Java IO: Streams, Reader and Writers. _School: [Alura](https://www.alura.com.br/)._ _Duration: 12h._ :paperclip: [here](https://cursos.alura.com.br/certificate/mupezzuol/java-trabalhando-com-io?lang=en)
+- Refactoring in Java: Good practices in your code. _School: [Alura](https://www.alura.com.br/)._ _Duration: 6h._ :paperclip: [here](https://cursos.alura.com.br/certificate/mupezzuol/introducao-refatoracao-java?lang=en)
+- Java 8: New features in this version. _School: [Alura](https://www.alura.com.br/)._ _Duration: 12h._ :paperclip: [here](https://cursos.alura.com.br/certificate/mupezzuol/java8-lambdas?lang=en)
+- Java: Productivity with new features. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/certificate/mupezzuol/java-novidades-novos-recursos?lang=en)
+- Java and JPA I: Persist your objects with JPA2 and Hibernate. _School: [Alura](https://www.alura.com.br/)._ _Duration: 17h._ :paperclip: [here](https://cursos.alura.com.br/certificate/mupezzuol/persistencia-de-objetos-com-jpa-hibernate?lang=en)
+- Java and JPA II: Persist your objects with JPA2 and Hibernate. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/certificate/mupezzuol/jpa-hibernate-persistencia-objetos?lang=en)
+- Java and JPA: Search with JPQL and Criteria. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/certificate/mupezzuol/java-jpa-jpql-criteria?lang=en)
+- Mocks in Java: Automated behavior tests. _School: [Alura](https://www.alura.com.br/)._ _Duration: 12h._ :paperclip: [here](https://cursos.alura.com.br/certificate/mupezzuol/mock?lang=en)
+- Integration Testing: Automated SQL and DAOs tests in Java. _School: [Alura](https://www.alura.com.br/)._ _Duration: 12h._ :paperclip: [here](https://cursos.alura.com.br/certificate/mupezzuol/teste-de-integracao?lang=en)
+- Rest Assured: Automated webservice testing. _School: [Alura](https://www.alura.com.br/)._ _Duration: 12h._ :paperclip: [here](https://cursos.alura.com.br/certificate/mupezzuol/rest-assured?lang=en)
+- Threads in Java I: Parallel programming. _School: [Alura](https://www.alura.com.br/)._ _Duration: 16h._ :paperclip: [here](https://cursos.alura.com.br/certificate/mupezzuol/threads-java-1?lang=en)
+- Threads in Java II: Advanced concurrent programming. _School: [Alura](https://www.alura.com.br/)._ _Duration: 16h._ :paperclip: [here](https://cursos.alura.com.br/certificate/mupezzuol/threads-java-2?lang=en)
+- Java e Testes: Test Driven Development com Junit. _School: [Alura](https://www.alura.com.br/)._ _Duration: 12h._ :paperclip: [here](https://cursos.alura.com.br/certificate/mupezzuol/tdd?lang=en)
 
 #### Spring
 
@@ -63,6 +83,8 @@ Below is a list of the courses I completed. There are currently `53` courses wit
 - Spring Boot I: Build a Rest API. _School: [Alura](https://www.alura.com.br/)._ _Duration: 8h._ :paperclip: [here](https://cursos.alura.com.br/certificate/e926092f-c025-4587-a32c-93198c70ac09)
 - Spring Boot II: API Security, Cache and Monitoring. _School: [Alura](https://www.alura.com.br/)._ _Duration: 12h._ :paperclip: [here](https://cursos.alura.com.br/certificate/ec2810d4-fbb2-4342-bbb9-3822b0aa7197)
 - Spring Framework 5 and Spring Boot 2. _School: [Udemy](https://www.udemy.com)._ _Duration: 7.5h._ :paperclip: [here](https://www.udemy.com/certificate/UC-O76UDY7X/)
+- Software Testing with Spring Boot. _School: [Amigoscode](https://amigoscode.com/)._ _Duration: 4h._ :paperclip:
+- Spring Data JPA: Repositories, Queries, Projections and Specifcations. _School: [Alura](https://www.alura.com.br/)._ _Duration: 10h._ :paperclip: [here](https://cursos.alura.com.br/certificate/mupezzuol/spring-data-jpa?lang=en)
 
 #### Microservice with Spring Boot
 
@@ -76,7 +98,6 @@ Below is a list of the courses I completed. There are currently `53` courses wit
 - Advanced JavaScript I: ES6, object orientation and design patterns. _School: [Alura](https://www.alura.com.br/)._ _Duration: 12h._ :paperclip: [here](https://cursos.alura.com.br/certificate/c7317ef3-1a03-40f9-ab38-d214844c1a45)
 - Advanced JavaScript II: ES6, object orientation and design patterns. _School: [Alura](https://www.alura.com.br/)._ _Duration: 12h._ :paperclip: [here](https://cursos.alura.com.br/certificate/b417d094-00d2-4314-9782-1695e8e45806)
 - Advanced JavaScript III: ES6, object orientation and design patterns. _School: [Alura](https://www.alura.com.br/)._ _Duration: 12h._ :paperclip: [here](https://cursos.alura.com.br/certificate/376a1934-f341-447f-9e96-2debf9fdaa59)
-
 
 #### TypeScript
 
