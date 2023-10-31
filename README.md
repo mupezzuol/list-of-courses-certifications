@@ -20,7 +20,7 @@ Reserved repository to list a little of my `academic life.`:heart_eyes:
 
 ## Languages <a name="language"></a> :round_pushpin:
 
-- **Portuguese:** Native speaker, I am Brazilian.<img src="img/brazil-icon.png" height=20>
+- **Portuguese:** Native speaker, I am Brazilian.:br:<img src="img/brazil-icon.png" height=20>
 - **English:** Full professional proficiency.:gb:
 - **Spanish:** Elementary proficiency.:es:
 
